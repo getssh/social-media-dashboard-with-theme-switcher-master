@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-primary: 163deg 72% 41%;
+    --color-secondary: 356deg 69% 56%;
+    --color-facebook: 208deg 92% 53%;
+    --color-twitter: 203deg 89% 53%;
+    --color-insta-one: 37deg 97% 70%;
+    --color-insta-two: 329deg 70% 58%;
+    --color-youtube: 348deg 97% 39%;
+    --light-card-bg: 227deg 47% 96%;
+    --light-top-bg: 225deg 100% 98%;
+    --light-text-one: 230deg 17% 14%;
+    --light-text-two: 228deg 12% 44%;
+    --dark-blue-one: 230deg 17% 14%;
+    --dark-blue-two: 232deg 19% 15%;
+    --dark-blue-three: 228deg 28% 20%;
+    --dark-blue-four: 228deg 34% 66%;
+    --dark-top-bg: 232deg 19%, 15%;
+  }
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 100,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
