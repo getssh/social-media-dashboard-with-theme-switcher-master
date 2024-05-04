@@ -10,6 +10,9 @@ Thanks for checking out this front-end coding challenge.
 
 **To do this challenge, you need a basic understanding of HTML, CSS and a tiny bit of JavaScript.**
 
+## Live Link
+<a href="https://social-media-dashboard-with-theme-switcher-master-eta.vercel.app/">Dashboard Live link</a>
+
 ## The challenge
 
 Your challenge is to build out this Social Media Dashboard and get it looking as close to the design as possible.
